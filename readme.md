@@ -15,8 +15,8 @@ _But : Présenter un projet fonctionnel en front qui comporte plusieurs pages._
 
 ### Les images de maquette :
 
-![maquette 1](https://github.com/asouil/Blog/master/assets/img/maquette1.jpg) 
-![maquette 2](https://github.com/asouil/Blog/master/assets/img/maquette2.jpg) 
-![maquette 3](https://github.com/asouil/Blog/master/assets/img/maquette3.jpg)  
-![maquette 4](https://github.com/asouil/Blog/master/assets/img/maquette4.jpg)  
-![maquette 5](https://github.com/asouil/Blog/master/assets/img/maquette5.jpg) 
+![maquette 1](https://github.com/asouil/Blog/tree/assets/img/maquette1.jpg) 
+![maquette 2](https://github.com/asouil/Blog/tree/assets/img/maquette2.jpg) 
+![maquette 3](https://github.com/asouil/Blog/tree/assets/img/maquette3.jpg)  
+![maquette 4](https://github.com/asouil/Blog/tree/assets/img/maquette4.jpg)  
+![maquette 5](https://github.com/asouil/Blog/tree/assets/img/maquette5.jpg) 
